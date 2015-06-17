@@ -1,7 +1,7 @@
 
 class Primes
 
-  def initialize(num)
+  def initialize()
     @primes = []
   end
 
