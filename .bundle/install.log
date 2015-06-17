@@ -1,0 +1,17 @@
+# Logfile created on 2015-06-16 17:32:02 -0700 by logger.rb/41954
+I, [2015-06-16T17:32:02.637565 #42398]  INFO -- : 0:  rake (10.4.2) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rake-10.4.2.gemspec
+I, [2015-06-16T17:32:02.639284 #42398]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/diff-lcs-1.2.5.gemspec
+I, [2015-06-16T17:32:02.639734 #42398]  INFO -- : 0:  rspec-support (3.2.2) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-support-3.2.2.gemspec
+I, [2015-06-16T17:32:02.640114 #42398]  INFO -- : 0:  rspec-core (3.2.3) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-core-3.2.3.gemspec
+I, [2015-06-16T17:32:02.640628 #42398]  INFO -- : 0:  rspec-expectations (3.2.1) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-expectations-3.2.1.gemspec
+I, [2015-06-16T17:32:02.641090 #42398]  INFO -- : 0:  rspec-mocks (3.2.1) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-mocks-3.2.1.gemspec
+I, [2015-06-16T17:32:02.641385 #42398]  INFO -- : 0:  rspec (3.2.0) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-3.2.0.gemspec
+I, [2015-06-16T17:32:02.641665 #42398]  INFO -- : 0:  bundler (1.5.1) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2015-06-16T17:33:45.229593 #42401]  INFO -- : 0:  rake (10.4.2) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rake-10.4.2.gemspec
+I, [2015-06-16T17:33:45.231417 #42401]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/diff-lcs-1.2.5.gemspec
+I, [2015-06-16T17:33:45.231864 #42401]  INFO -- : 0:  rspec-support (3.2.2) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-support-3.2.2.gemspec
+I, [2015-06-16T17:33:45.232203 #42401]  INFO -- : 0:  rspec-core (3.2.3) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-core-3.2.3.gemspec
+I, [2015-06-16T17:33:45.232502 #42401]  INFO -- : 0:  rspec-expectations (3.2.1) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-expectations-3.2.1.gemspec
+I, [2015-06-16T17:33:45.232804 #42401]  INFO -- : 0:  rspec-mocks (3.2.1) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-mocks-3.2.1.gemspec
+I, [2015-06-16T17:33:45.233135 #42401]  INFO -- : 0:  rspec (3.2.0) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rspec-3.2.0.gemspec
+I, [2015-06-16T17:33:45.233412 #42401]  INFO -- : 0:  bundler (1.5.1) from /Users/tmeyster/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
