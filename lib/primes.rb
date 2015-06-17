@@ -1,4 +1,3 @@
-
 class Primes
 
   def self.generate_primes(n)
@@ -14,7 +13,10 @@ class Primes
   end
 
   def self.is_prime?(num)
-    (2...num).each do |divisor|
+    return false if num == 4
+
+    sqrt_of_num = Math.sqrt(num)
+    (2..sqrt_of_num).each do |divisor|
       return false if num % divisor == 0
     end
 
