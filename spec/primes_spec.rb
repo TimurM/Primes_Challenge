@@ -15,10 +15,20 @@ describe Primes do
 
   describe "#primes(n)" do
     let(:subject) { Primes.new() }
+    let(:primes)  { subject.primes(5) }
 
     it "returns 'n' number of prime numbers" do
-      primes = subject.primes(10)
-      expect(primes.length).to eq(10)
+      expect(primes.length).to eq(5)
+    end
+
+    it "return valid primes" do
+      expect(primes).to match_array([2, 3, 5, 7, 11])
+    end
+
+    it "returns an empty array if 'n' is 0" do
+      primes = subject.primes(0)
+      expect(primes).to match_array([])
     end
   end
+  
 end

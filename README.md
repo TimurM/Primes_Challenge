@@ -22,10 +22,13 @@ STDOUT.
 * Compute the value of multiplied primes
 
 ####Display the Multiplication Table
-* Has methods to display and print the table to the commandline 
+* Has methods to display and print the table to the commandline
 
 #What I need:
 
 -Get 10 prime numbers
 -Compute the value of the multiplication of each prime combo
 -Display the table
+
+Sources:
+* http://codereview.stackexchange.com/questions/35340/printing-out-prime-numbers-from-an-array-given-a-max-number
