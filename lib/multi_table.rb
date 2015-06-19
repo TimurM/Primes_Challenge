@@ -24,6 +24,8 @@ class MultiTable
 
 
   def display_table
+    raise "number of primes needs to be greater than 0" if @primes.length ==0
+
     first_row = "%#{longest_string}s" % " "
 
     first_column = @primes.map do |num|
@@ -41,6 +43,7 @@ class MultiTable
   private
 
   def longest_string
+    raise "number of primes needs to be greater than 0" if @primes.length ==0
     longest_string = longest_string || (@primes[-1]**2).to_s.length
   end
 end
